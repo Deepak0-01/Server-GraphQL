@@ -1,0 +1,64 @@
+{
+  "customers": [
+    {
+      "id": "2",
+      "name": "rahane",
+      "email": "rahane@gmail.com",
+      "age": 10
+    },
+    {
+      "id": "3",
+      "name": "kohli",
+      "email": "kohli@gmail.com",
+      "age": 85
+    },
+    {
+      "id": "4",
+      "name": "Harry",
+      "email": "harry@gmail.com",
+      "age": 95
+    },
+    {
+      "name": "Harry",
+      "email": "harry@gmail.com",
+      "age": 95,
+      "id": "DZoQjew"
+    },
+    {
+      "name": "Harry",
+      "email": "harry@gmail.com",
+      "age": 95,
+      "id": "bWXAfvY"
+    },
+    {
+      "name": "Harry",
+      "email": "harry@gmail.com",
+      "age": 95,
+      "id": "cWjYmd0"
+    },
+    {
+      "name": "Harry",
+      "email": "harry@gmail.com",
+      "age": 95,
+      "id": "XLsZfG3"
+    },
+    {
+      "name": "Harry",
+      "email": "harry@gmail.com",
+      "age": 95,
+      "id": "jZrAA92"
+    },
+    {
+      "name": "Harry",
+      "email": "harry@gmail.com",
+      "age": 95,
+      "id": "cZ4VS-p"
+    },
+    {
+      "name": "Harry",
+      "email": "harry@gmail.com",
+      "age": 95,
+      "id": "lVPLqRY"
+    }
+  ]
+}
